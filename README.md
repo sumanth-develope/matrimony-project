@@ -32,13 +32,14 @@ http://localhost:3000
 cd frontend
 npm install
 ng serve
+
+
 Frontend will run on:
 http://localhost:4200
 
 Database Setup
-Import the backend/database.sql file into MySQL to create required tables.
+Import the backend/database.sql file into MySQL to create the required tables.
 
 Author
-
 Sumanth
 ````
