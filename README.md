@@ -54,7 +54,7 @@ Frontend
 
 bash
 
-Copy code
+
 
 cd frontend
 
